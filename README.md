@@ -1,2 +1,0 @@
-# guacamole-re
-guacamole-re
